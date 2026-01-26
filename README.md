@@ -10,7 +10,7 @@ AI image generation using Google Gemini's `gemini-3-pro-image-preview` model.
 
 **Install:**
 ```bash
-npx skills add shawnyang/agent-skills
+npx skills add sanyuan0704/agent-skills
 ```
 
 **Usage:**
