@@ -1,12 +1,17 @@
-# nano-banana-pro
+---
+name: nano-banana-pro
+description: AI image generation using Google Gemini's gemini-3-pro-image-preview model. Simple script to generate images from text prompts. Use when user asks to generate, create, or draw images with Gemini.
+---
 
-| name | description |
-|------|-------------|
-| nano-banana-pro | AI image generation using Google Gemini's image model. Simple script to generate images from text prompts. Use when user asks to generate, create, or draw images with Gemini. |
-
-## Image Generation with Gemini
+# Image Generation with Gemini
 
 Generate images using Google's Gemini model (`gemini-3-pro-image-preview`).
+
+## Script Directory
+
+**Agent Execution**:
+1. `SKILL_DIR` = this SKILL.md file's directory
+2. Script path = `${SKILL_DIR}/scripts/generate_image.py`
 
 ## Prerequisites
 
